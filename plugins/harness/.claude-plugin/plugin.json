@@ -1,0 +1,8 @@
+{
+  "name": "harness",
+  "version": "1.0.0",
+  "description": "Lint after every edit, block finishing while tests fail, guard destructive commands, contract and review workflow",
+  "author": {
+    "name": "Douwe Koot"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "harness",
+  "description": "Personal harness for Claude Code: sensors, gates, contracts and an adversarial reviewer",
+  "owner": {
+    "name": "Douwe Koot"
+  },
+  "plugins": [
+    {
+      "name": "harness",
+      "source": "./plugins/harness",
+      "description": "Lint after every edit, block finishing while tests fail, guard destructive commands, contract and review workflow"
+    }
+  ]
+}
