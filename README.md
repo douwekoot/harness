@@ -1,5 +1,3 @@
-# harness
-
 Claude Code plugin that implements the "harness engineering" setup: sensors after every edit, a gate that stops Claude from finishing while tests fail, a guard against destructive commands, task contracts and an adversarial reviewer.
 
 ## Requirements
