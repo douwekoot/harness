@@ -1,4 +1,4 @@
-Claude Code plugin that keeps software tasks on track:
+Claude Code plugin reviewing software tasks:
 
 - runs a quick check after edits and tests before Claude finishes;
 - blocks common destructive commands;
